@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1043540069992",
+    "firebase_url": "https://haulier-tracking-e5794-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "haulier-tracking-e5794",
+    "storage_bucket": "haulier-tracking-e5794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043540069992:android:de138d4a0c0dd9b3b5f5dd",
+        "android_client_info": {
+          "package_name": "com.example.haulier_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1TxUnbw_bdOMRPMWUxqiifD15ndJzN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
